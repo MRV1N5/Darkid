@@ -1,7 +1,9 @@
 License : https://sfile.mobi/5ldWn3EKB2U
-#ikuti dengan bener command ya, bila perlu copy
+
 # Darkid
 # Dosa Tanggung Sendiri Yah...
+
+ikuti semua command dengan bener !!
 
 $ pkg update && pkg upgrade
 
