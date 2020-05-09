@@ -1,4 +1,5 @@
 License : https://sfile.mobi/5ldWn3EKB2U
+#ikuti dengan bener command ya, bila perlu copy
 # Darkid
 # Dosa Tanggung Sendiri Yah...
 
