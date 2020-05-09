@@ -1,3 +1,4 @@
+License : https://sfile.mobi/5ldWn3EKB2U
 # Darkid
 # Dosa Tanggung Sendiri Yah...
 
