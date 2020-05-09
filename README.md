@@ -10,7 +10,7 @@ $ pip2 install request
 
 $ pip2 install mechanize
 
-$ pip2 update --upgrade pip
+$ pip2 install --upgrade pip
 
 $ pkg install git
 
